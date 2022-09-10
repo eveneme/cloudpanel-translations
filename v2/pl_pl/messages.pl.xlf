@@ -552,11 +552,11 @@
             </trans-unit>
             <trans-unit id="running">
                 <source>Running</source>
-                <target>Działa</target>
+                <target>Włączony</target>
             </trans-unit>
             <trans-unit id="stopped">
                 <source>Stopped</source>
-                <target>Zatrzymany</target>
+                <target>Wyłączony</target>
             </trans-unit>
             <trans-unit id="restart">
                 <source>Restart</source>
