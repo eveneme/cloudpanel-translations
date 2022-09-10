@@ -1096,7 +1096,7 @@
             </trans-unit>
             <trans-unit id="database-user-name">
                 <source>Database User Name</source>
-                <target>Nazwa użytknika bazy danych</target>
+                <target>Nazwa użytkownika bazy danych</target>
             </trans-unit>
             <trans-unit id="database-user-password">
                 <source>Database User Password</source>
