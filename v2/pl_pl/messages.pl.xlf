@@ -144,7 +144,7 @@
             </trans-unit>
             <trans-unit id="os">
                 <source>OS</source>
-                <target>OS</target>
+                <target>SYSTEM</target>
             </trans-unit>
             <trans-unit id="hostname">
                 <source>Hostname</source>
@@ -228,7 +228,7 @@
             </trans-unit>
             <trans-unit id="dashboard">
                 <source>Dashboard</source>
-                <target>Dashboard</target>
+                <target>Panel</target>
             </trans-unit>
             <trans-unit id="account">
                 <source>Account</source>
@@ -592,7 +592,7 @@
             </trans-unit>
             <trans-unit id="reboot">
                 <source>Reboot</source>
-                <target>Ponowny rozruch</target>
+                <target>Restart</target>
             </trans-unit>
             <trans-unit id="instance-will-reboot-shortly">
                 <source>Instance will reboot shortly.</source>
@@ -600,7 +600,7 @@
             </trans-unit>
             <trans-unit id="its-recommended-to-reboot-the-instance-after-changing-the-timezone">
                 <source>It's recommended to reboot the instance after changing the timezone.</source>
-                <target>Rekomendujemy ponowny rozruch po dokonaniu zmiany strefy czasowej.</target>
+                <target>Rekomendujemy restart po dokonaniu zmiany strefy czasowej.</target>
             </trans-unit>
             <trans-unit id="general">
                 <source>General</source>
@@ -1652,20 +1652,20 @@
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Load Average</target>
+                <target>Średnie obciążenie</target>
             </trans-unit>
             <!-- Translate Me Start -->
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
-                <target>Remote Backup</target>
+                <target>Zdalna kopia zapasowa</target>
             </trans-unit>
             <trans-unit id="storage-provider">
                 <source>Storage Provider</source>
-                <target>Storage Provider</target>
+                <target>Dostawca pamięci masowej</target>
             </trans-unit>
             <trans-unit id="select-storage-provider">
                 <source>Select Storage Provider</source>
-                <target>Select Storage Provider</target>
+                <target>Wybierz dostawcę pamięci masowej</target>
             </trans-unit>
             <trans-unit id="sftp">
                 <source>SFTP</source>
@@ -1677,7 +1677,7 @@
             </trans-unit>
             <trans-unit id="continue">
                 <source>Continue</source>
-                <target>Continue</target>
+                <target>Kontynuuj</target>
             </trans-unit>
             <trans-unit id="enable-remote-backup">
                 <source>Enable Remote Backup</source>
