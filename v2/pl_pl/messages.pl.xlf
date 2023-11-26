@@ -1688,7 +1688,7 @@
             </trans-unit>
             <trans-unit id="load-average">
                 <source>Load Average</source>
-                <target>Średnie obciążenie</target>
+                <target>Średnie Obciążenie</target>
             </trans-unit>
             <trans-unit id="remote-backup">
                 <source>Remote Backup</source>
